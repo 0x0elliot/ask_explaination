@@ -3,11 +3,12 @@ Explaination
 
 for example, i have a project which looks like this:
 
-/Project
-- run.py
-- __init__.py
-- /static
-- apis.ask
+<code>/Project</code>
+- <code>run.py</code>
+- <code>__init__.py</code>
+- <code>/static</code>
+- <code>models.py</code>
+- <code>apis.ask</code>
 
 In apis.ask i have the API endpoints i want to use in my project like you can see <a href = "https://github.com/0x0elliot/ask_explaination/blob/main/apis.ask">here</a> 
 
