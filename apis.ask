@@ -1,0 +1,16 @@
+products = [
+  {
+    name: 'Product 1',
+    price: 30.0,
+    qty: 300
+  },
+  {
+    name: 'Product 2',
+    price: 15.5,
+    qty: 20
+  }
+]
+
+*import_to_flask('uniquelabelforusertouse')
+@get('/api/v1/products'):
+  respond({products: products})
