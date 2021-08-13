@@ -1,4 +1,4 @@
-# ask_explaination
+# Explaination for my proposal of the idea
 Explaination
 
 for example, i have a project which looks like this:
